@@ -1,7 +1,3 @@
-- name: Fatso
-  category: theme
-  url: https://github.com/getmicah/fatso
-
-- name: Beam
-  category: theme
-  url: https://github.com/getmicah/beam
+- name: Get on GitHub
+  category: assignment
+  url: https://classroom.github.com/assignment-invitations/79c87ffe0bca6f507160d665f4271941
